@@ -55,4 +55,6 @@ int main (void){
   *앱_인벤터의 사용법 배움
   *앱_인벤터로 간단한 앱 만듬
 
+[영상_주소](https://www.youtube.com/watch?v=XaNK_pYIZhk&list=PLT4FAxT1sFpmCYn0JswqzNM6ux72LRrNK)
+
 ![screen_shot_app_inventer](https://github.com/qudrms5871/DKSH_1/blob/main/MIT%20App%20Inventor%20-%20Chrome%202020-11-13%20%EC%98%A4%ED%9B%84%208_08_39.png?raw=true)
