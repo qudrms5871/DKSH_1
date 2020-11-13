@@ -47,3 +47,12 @@ int main (void){
 [2]:https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search-v2_297x176.jpg
 
 <img src="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search-v2_297x176.jpg" width="100%" height="100%">
+
+# 앱_인벤터
+
+*한 일
+  *앱_인벤터에 대해 배움
+  *앱_인벤터의 사용법 배움
+  *앱_인벤터로 간단한 앱 만듬
+
+![screen_shot_app_inventer](https://github.com/qudrms5871/DKSH_1/blob/main/MIT%20App%20Inventor%20-%20Chrome%202020-11-13%20%EC%98%A4%ED%9B%84%208_08_39.png?raw=true)
