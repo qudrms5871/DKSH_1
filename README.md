@@ -58,3 +58,14 @@ int main (void){
 [영상_주소](https://www.youtube.com/watch?v=XaNK_pYIZhk&list=PLT4FAxT1sFpmCYn0JswqzNM6ux72LRrNK)
 
 ![screen_shot_app_inventer](https://github.com/qudrms5871/DKSH_1/blob/main/MIT%20App%20Inventor%20-%20Chrome%202020-11-13%20%EC%98%A4%ED%9B%84%208_08_39.png?raw=true)
+
+# 노선정보조회_서비스
+
+*한 일
+ *노전정보조회 서비스를 배움
+ *앱 인벤터로 노전정보조회 보기를 만듬
+ *마지막에 런타임 에러 났으니 나중에 하셈
+
+![screen_shot_노선정보조회_서비스](https://github.com/qudrms5871/DKSH_1/blob/main/%EA%B0%9C%EB%B0%9C%EA%B3%84%EC%A0%95%20_%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8%20-%20Chrome%202020-11-20%20%EC%98%A4%ED%9B%84%207_31_43.png?raw=true)
+
+![screen_shot_노선정보조회_서비스_앱_인벤터](https://github.com/qudrms5871/DKSH_1/blob/main/%EA%B0%9C%EB%B0%9C%EA%B3%84%EC%A0%95%20_%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8%20-%20Chrome%202020-11-20%20%EC%98%A4%ED%9B%84%207_32_36.png?raw=true)
